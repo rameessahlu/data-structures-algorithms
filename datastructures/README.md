@@ -3,21 +3,24 @@
 
 ### Basic
 
- - Stack
- - Queue
- - LinkedList
+ - ~~Stack~~
+ - ~~Queue~~
+
+   -> Priority Queue
+
+ - ~~LinkedList~~
  
-   -> Singly
- 
-   -> Circular
- 
-   -> Doubly		 
+   -> ~~Singly~~
+
+   -> ~~Doubly~~   
+
+   -> ~~Circular~~	 
  
  - Tree
  
-   -> Binary Tree
+   -> ~~Binary Tree~~
   
-   -> BST
+   -> ~~BST~~
   
    -> Splay
   
@@ -31,6 +34,9 @@
   
  - Heap
  - Hashing
+   
+   -> Hash Table
+  
  - Graph (BFS & DFS)
  - Matrix
 
@@ -38,3 +44,4 @@
 
  - Trie
  - Segment Tree
+ - Suffix Tree

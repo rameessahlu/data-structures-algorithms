@@ -7,7 +7,7 @@ My solutions to coding interview problems on AlgoExpert in python.
 |~~Find Three Largest Numbers~~|~~BST Traversal~~|~~Multi String Search~~|Calender Matching|Airport Connections|
 |~~Depth First Search~~|~~Balanced Brackets~~|Continuous Median|Iterative In-order Traversal|  | 
 |~~Find Closest Value in BST~~|~~Smallest Difference~~|Reverse Linked List|Flatten Binary Tree|  |
-|~~Nth Fibonacci|Breadth-first Search~~|Four Number Sum|Right Sibling Tree|  | 
+|~~Nth Fibonacci~~|~~Breadth-first Search~~|Four Number Sum|Right Sibling Tree|  | 
 |~~Two Number Sum~~|Move Element To End|Subarray Sort|Max Profit With K Transactions|  |
 |~~Product Sum~~|Invert Binary Tree|Largest Range|Palindrome Partitioning Min Cuts|  | 
 |~~Binary Search~~|Max Subset Sum No Adjacent|Min Rewards|Longest String Chain|  |
