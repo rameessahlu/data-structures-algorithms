@@ -11,4 +11,5 @@
  - Robin-Karp Algorithm
  - Dijkstra's Algorithm
  - Prim's Algorithm
+ - Kruskal's Algorithm
  - Divide & Conqure and DP
