@@ -5,9 +5,6 @@
 
  - ~~Stack~~
  - ~~Queue~~
-
-   -> Priority Queue
-
  - ~~LinkedList~~
  
    -> ~~Singly~~
@@ -32,7 +29,9 @@
   
    -> K Dimensional Tree
   
- - Heap
+ - ~~Heap~~
+ 
+    -> Priority Queue
  - Hashing
    
    -> Hash Table
