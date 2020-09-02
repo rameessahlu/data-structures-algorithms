@@ -4,7 +4,7 @@
 
  - Complexity Analysis
  - Searching (Linear and Binary)
- - Sorting Algorithms
+ - ~~Sorting Algorithms~~
  - Basics of Graphs
  - BFS and DFS
  - KMP Algorithm
