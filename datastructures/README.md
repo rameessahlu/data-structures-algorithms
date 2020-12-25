@@ -2,7 +2,10 @@
 # DataStructure Implementations
 
 ### Basic
-
+ 
+ - Array
+ - String
+ - Bits
  - ~~Stack~~
  - ~~Queue~~
  - ~~LinkedList~~
