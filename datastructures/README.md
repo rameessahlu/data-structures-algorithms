@@ -39,7 +39,7 @@
    
    -> Hash Table
   
- - ~~~Graph (All three representations)~~~
+ - ~~Graph (All three representations)~~
  - Matrix
 
 ### Advanced DS
