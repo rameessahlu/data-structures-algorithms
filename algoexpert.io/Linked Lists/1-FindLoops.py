@@ -3,8 +3,10 @@ class LinkedList:
     def __init__(self, value):
         self.value = value
         self.next = None
-
-
+"""
+Used Algorithm: Floyd’s Cycle-Finding Algorithm
+Other solutions: Hashing Approach, Adding a flag to the data structure of linked list, Store length
+"""
 def findLoop(head):
 	first_pointer = head
 	second_pointer = head
