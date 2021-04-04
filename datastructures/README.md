@@ -5,7 +5,6 @@
  
  - Array
  - String
- - Bits
  - ~~Stack~~
  - ~~Queue~~
  - ~~LinkedList~~
@@ -43,7 +42,6 @@
  - Matrix
 
 ### Advanced DS
-
- - Trie
- - Segment Tree
- - Suffix Tree
+ - Trie (Tree)
+ - Segment Tree (Tree)
+ - Suffix Tree (Tree)
