@@ -2,7 +2,6 @@
 
 # Algorithms
 
- - Complexity Analysis
  - Searching (Linear and Binary)
  - ~~Sorting Algorithms~~
  - Basics of Graphs
